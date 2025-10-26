@@ -19,7 +19,7 @@ function RouteComponent() {
 				</div>
 
 				<p className="text-lg text-white/80">
-					Professional drilling data management for AngloGold Ashanti's
+					Professional drilling data management for
 					exploration and mining operations.
 				</p>
 
